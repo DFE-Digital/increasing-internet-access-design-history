@@ -1,21 +1,20 @@
 {
-  "name": "bat-design-history",
+  "name": "internet-access-children-design-history",
   "version": "2.0.0",
   "private": true,
   "engines": {
     "node": "^10.0.0"
   },
-  "description": "A history of the designs for the Find and Apply services",
+  "description": "A history of the designs for the service",
   "keywords": [
-    "becoming-a-teacher",
     "govuk",
     "11ty"
   ],
-  "author": "Department for Education: Becoming a teacher team",
+  "author": "Department for Education",
   "license": "MIT",
   "homepage": "https://bat-design-history.netlify.com/",
-  "repository": "github:DFE-Digital/bat-design-history",
-  "bugs": "https://github.com/DFE-Digital/bat-design-history/issues",
+  "repository": "github:fofr/internet-access-children-design-history",
+  "bugs": "https://github.com/fofr/internet-access-children-design-history/issues",
   "scripts": {
     "prebuild": "rm -rf public/assets && mkdirp public && mkdirp public/javascripts",
     "build:govuk-assets": "cp -R node_modules/govuk-frontend/govuk/assets public/assets",

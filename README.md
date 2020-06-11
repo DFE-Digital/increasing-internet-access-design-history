@@ -1,6 +1,4 @@
-# Design history for becoming a teacher
-
-https://bat-design-history.netlify.com
+# Design history for Improving children’s internet access
 
 ## Purpose of this project
 
@@ -41,7 +39,6 @@ The design history uses the [GOV.UK Design System](https://design-system.service
 
 ## Legacy
 
-This design history replaces an earlier version based on the govuk-prototype-kit:
+This design history is based on:
 
-* https://github.com/DFE-Digital/bat-design-history-old
-* https://bat-design-history-old.herokuapp.com/
+* https://github.com/DFE-Digital/bat-design-history
