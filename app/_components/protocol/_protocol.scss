@@ -1,0 +1,21 @@
+:target + .app-protocol {
+  outline: $govuk-focus-width solid govuk-colour("light-grey");
+}
+
+.app-protocol {
+  .govuk-tag:first-of-type {
+    margin-left: - govuk-spacing(1);
+  }
+
+  .govuk-tag {
+    margin-right: govuk-spacing(1);
+  }
+
+  .app-document-list__item-title {
+    @include govuk-font($size: 19, $weight: "bold");
+  }
+
+  .app-document-list__item-description {
+    margin-bottom: 0;
+  }
+}
