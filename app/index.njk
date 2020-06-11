@@ -1,20 +1,14 @@
 ---
-layout: product
+layout: collection
 title: Improving children’s internet access – a design history
 titleHtml: Improving children’s internet access – a design&nbsp;history
-description: A history of the designs for the service
 eleventyComputed:
   eleventyNavigation:
     key: app
     title: "{{ title }}"
+eleventyExcludeFromCollections: true
+pagination:
+  data: collections.all
+  reverse: true
+  size: 50
 ---
-<div class="govuk-grid-row">
-{% for item in collections.all | eleventyNavigation("app") %}
-  <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
-    <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
-      <a href="{{ item.url | url | pretty }}">{{ item.title }}</a>
-    </h3>
-    <p class="govuk-body">{{ item.excerpt }}</p>
-  </section>
-{% endfor %}
-</div>
