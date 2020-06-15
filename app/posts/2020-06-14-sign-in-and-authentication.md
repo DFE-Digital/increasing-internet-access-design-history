@@ -29,3 +29,17 @@ This would probably be represented as an internal state.
 - Check the email is valid
 - Check if the email is one we recognise and have been in contact with before (for example in the devices service)
 - Check if the email domain is from a suitable organisation, perhaps checking a whitelist
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+      text: "Create an account or sign in",
+      img: { src: "01-create-an-account-or-sign-in.png" }
+    }, {
+      text: "Create an account",
+      img: { src: "02-create-an-account.png" }
+    }, {
+      text: "Check your email",
+      img: { src: "03-check-your-email.png" }
+    }]
+}) }}
