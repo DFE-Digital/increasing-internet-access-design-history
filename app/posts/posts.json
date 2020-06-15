@@ -4,7 +4,8 @@
   "tags": ["search-index"],
   "eleventyComputed": {
     "eleventyNavigation": {
-      "key": "{{ title }}"
+      "key": "{{ title }}",
+      "parent": "app"
     }
   }
 }
