@@ -2,6 +2,10 @@
 title: Sign in and authentication
 description: Putting request forms behind a sign-in
 date: 2020-06-11
+related:
+  items:
+  - text: Prototype
+    href: https://increasing-access-prototype.herokuapp.com/account
 ---
 
 In the [current prototype](/initial-designs), each form is open to the public, and for each request the user (a local authority or trust) will need to give their name, email and organisation.
