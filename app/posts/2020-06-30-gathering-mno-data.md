@@ -19,7 +19,7 @@ We have technical capacity to build one of these, at best.
 
 ## Bulk upload
 
-- Requires each responsibly body to use the same spreadsheet format
+- Requires each responsible body to use the same spreadsheet format
 - Spreadsheet can have limited validation
 - Responsible bodies will need to collate each spreadsheet from each school
 - May miss nuances of data, for example "Pay as you go or contract" is a question we only need to ask for some networks
