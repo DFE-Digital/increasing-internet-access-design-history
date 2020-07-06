@@ -1,7 +1,11 @@
 ---
-title: Emails we sent to launch the pilot
+title: Emails we sent to launch the BT pilot
 description: Sent to trusts and local authorities
 date: 2020-06-15
+related:
+  items:
+  - text: User research playback
+    href: https://docs.google.com/presentation/d/1Cm6eYM5yNifiZx-ZTiBBBjP_YAN69k11x-bt0wf0lBs/edit
 ---
 
 We sent the following emails to 12 local authorities and 18 trusts to launch the BT hotspot pilot on 15 June.
