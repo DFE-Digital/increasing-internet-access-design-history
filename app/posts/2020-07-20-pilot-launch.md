@@ -1,10 +1,10 @@
 ---
 title: What we launched for the pilot
-description:  Screens of the service as of 17 July 2020
-date: 2020-07-17
+description:  Screens of the service as of 16 July 2020
+date: 2020-07-20
 ---
 
-On 17 July we launched the wider BT voucher pilot scheme alongside the increasing mobile data scheme.
+On 16 July we launched the wider BT voucher pilot scheme alongside the increasing mobile data scheme.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
