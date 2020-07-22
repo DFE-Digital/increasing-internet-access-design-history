@@ -12,7 +12,7 @@ Each time a responsible body requests data for someone we need to send a text me
 
 In the privacy notice, we promise:
 
-> If you decide to take up the offer, you’ll get a text message from the Department of Education with more information about your data protection rights.
+> If you decide to take up the offer, you’ll get a text message from the Department for Education with more information about your data protection rights.
 
 The sender of the text message will be:
 __GOVUK__
