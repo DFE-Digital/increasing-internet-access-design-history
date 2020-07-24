@@ -25,7 +25,10 @@ Should a network join at a later time we should:
   items: [{
       text: "Check your answers messaging",
       img: { src: "01-check-your-answers.png" },
-      caption: "Append 'if they join the service' to the end of the check your answers message"
+      caption: "
+* Append 'not on service yet' to the end of the network name in summary list
+* Append 'only if they join the service' to the end of the check your answers message
+"
     }, {
       text: "Unavailable status",
       img: { src: "02-unavailable-status.png" },
