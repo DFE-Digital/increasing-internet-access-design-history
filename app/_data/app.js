@@ -1,4 +1,4 @@
 module.exports = {
-  productName: 'Design history',
+  productName: 'Get help with tech design history',
   url: '/'
 }
