@@ -95,6 +95,15 @@ Notable things that are missing:
 
 We might want more in-depth statuses showing whether schools have received our comms, and whether they have logged into the system.
 
+## User research
+
+We tested this design with large local authorities:
+
+* They were very supportive of devolving to schools, based on the guidance published to GOV.UK they were already intending to ensure this. The participant selected the option 'Schools will manage their own orders' immediately. They didn't need to check with schools, they just made this decision.
+* In phase 1 of devices, they were just a 'middle admin layer' - they only did the admin for forecast and allocation appeals (which involved loads of back and forth between schools and DfE) and took the orders/deliveries, all the configuration and onward distribution was delegated to social workers or schools.
+* Huge admin task - the task of inputting all the contact data is a huge one, and the participant felt unnecessary. The majority of school in the list of about 600 are primary, so they would only be putting in headteacher details. For the 70-80 (maintained) secondary schools they may have contact details of an IT person, but may still opt to use headteacher contact details.
+* Next steps? - They expect that the headteacher would access the service and put in the correct details of who would manage this at the school. It would have to be senior leadership and probably someone from IT. They thought there was definitely a role for the LA in communicating with schools. If they could see a list of which schools hadn't engaged/accessed the service, they could do targeted comms to make sure no schools missed out.
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
