@@ -8,6 +8,8 @@ related:
     href: https://www.gov.uk/guidance/get-laptops-and-tablets-for-children-who-cannot-attend-school-due-to-coronavirus-covid-19
   - text: Miro board
     href: https://miro.com/app/board/o9J_kpby-6s=/
+  - text: Research notes
+    href: https://docs.google.com/document/d/1EYZ9Y4naK4fp9EmbPnBVWPrpFJcSh0316bl-UDq6pVE/edit
 ---
 
 A first pass at giving responsible bodies the opportunity to devolve managing of device orders to schools.
