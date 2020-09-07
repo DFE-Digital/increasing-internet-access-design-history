@@ -45,6 +45,8 @@ The 'X schools' link should link to the schools list, preferably to a filtered v
       img: { src: "03-you-cannot-order-yet-others-can.png" },
       caption: "
 There is an extra section, ‘Some schools can place their own orders’
+
+We are assuming that responsible bodies do not need to access TechSource on behalf of schools who will be ordering themselves.
       "
     }, {
       text: "Order devices for specific circumstances",
