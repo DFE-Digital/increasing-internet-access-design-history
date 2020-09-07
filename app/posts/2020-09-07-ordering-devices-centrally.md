@@ -13,7 +13,7 @@ There are 5 variants of the Order devices page. They:
 - cannot order for anyone yet
 - cannot order but schools they devolved to can
 - can order devices for specific circumstances
-- can order a full allocation because their are local coronavirus restrictions
+- can order a full allocation because there are local coronavirus restrictions
 - cannot order any more devices (but might be able to order more later)
 
 ## School tables
