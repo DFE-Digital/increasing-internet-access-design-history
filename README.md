@@ -1,4 +1,4 @@
-# Design history for Increasing children’s internet access
+# Design history for Get help with technology
 
 ## Purpose of this project
 
