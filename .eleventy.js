@@ -1,6 +1,14 @@
 module.exports = function (eleventyConfig) {
   // Browser Sync
   eleventyConfig.setBrowserSyncConfig({
+    callbacks: {
+      ready: function(err, bs) {
+        bs.addMiddleware('*', (req, res) => {
+          res.writeHead(301, {Location: "https://ghwt-design-history.herokuapp.com" + req.url});
+          res.end();
+        });
+      }
+    },
     rewriteRules: [{
       match: /\/image\/(\d+)(x)?(\d+)?/g,
       replace: '/images'
