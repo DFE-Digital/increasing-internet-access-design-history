@@ -20,6 +20,9 @@ Problems with the current form include:
       text: "School wizard journey",
       img: { src: "01-school-wizard-journey.png" }
     }, {
+      text: "School wizard journey – I don’t know selected",
+      img: { src: "04-school-wizard-journey-i-dont-know.png" }
+    }, {
       text: "School subsequent sign in, when details haven’t been given yet",
       img: { src: "02-school-subsequent-sign-in.png" }
     }, {
