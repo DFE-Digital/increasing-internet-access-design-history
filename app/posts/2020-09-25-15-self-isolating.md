@@ -23,12 +23,12 @@ This policy is awkward from a design perspective because:
 - that eligibility does not happen automatically, we must be told by schools directly
 - the request for devices is not necessarily for those who are self-isolating (the allocation can be more than 15 for instance)
 
+## Design notes
+
 In this design we’ve needed to:
 - change guidance on when you can order a full allocation to include the new policy
 - separate the two cases that allow you to order a full allocation. We have to indicate that one will happen automatically, and the other must be requested
 - incorporate guidance for making this request in a logical place, which is a similar action to requesting devices for specific circumstances requests, but asking for different information and with a different outcome
-
-## Design notes
 
 For the two types of requests we tried a few options before settling on a version with tabs. Tabs were a last resort after trying:
 - separate pages – on their own these pages worked, but when trying to add links to them from the index pages they appeared too similar and were difficult to distinguish
