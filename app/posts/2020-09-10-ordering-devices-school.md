@@ -4,9 +4,10 @@ description: Designs for all variants of the order page
 date: 2020-09-10
 ---
 
-There are 4 variants of the Order devices page. They:
+There are 5 variants of the Order devices page. They:
 
 - cannot order yet
+- cannot order yet, but only because their TechSource account isn’t ready yet
 - can order devices for specific circumstances
 - can order a full allocation because there are local coronavirus restrictions
 - cannot order any more devices (but might be able to order more later)
@@ -25,6 +26,9 @@ This design aims to:
   items: [{
       text: "You cannot order devices yet",
       img: { src: "01-you-cannot-order-devices-yet.png" }
+    }, {
+      text: "School can order, but your TechSource account is not ready yet",
+      img: { src: "10-techsource-account-not-ready-yet.png" }
     }, {
       text: "Order devices for specific circumstances",
       img: { src: "02-order-devices-specific-circumstances.png" }
