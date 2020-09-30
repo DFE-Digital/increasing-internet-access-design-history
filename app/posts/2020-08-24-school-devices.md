@@ -71,8 +71,13 @@ TechSource accounts might be created months before they are needed – those ema
       text: "Order restrictions",
       img: { src: "04-order-restrictions.png" }
     }, {
-      text: "Are you ordering",
-      img: { src: "05-are-you-ordering.png" }
+      text: "Are you ordering (did not build)",
+      img: { src: "05-are-you-ordering.png" },
+      caption: "
+We chose not to build this page. Instead we defaulted the first user as being someone who can order. This means we have certainty that every school has someone who can place orders.
+
+We needed this when schools were limited to 2 TechSource accounts, but we managed to bump that up to 3.
+      "
     }, {
       text: "You will get an account",
       img: { src: "06-you-will-get-an-account.png" }
