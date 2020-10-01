@@ -12,6 +12,12 @@ related:
     href: https://github.com/DFE-Digital/get-help-with-tech-prototype/pull/19
 ---
 
+{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
+{{ govukWarningText({
+  html: 'The reporting was simplified and we are building <a href="/15-self-isolating-2">a simpler design</a>',
+  iconFallbackText: "Warning"
+}) }}
+
 A new policy was introduced meaning that schools can order their full allocation of devices if they have 15 or more self-isolating children in years 3 to 11.
 
 Currently we say that:
