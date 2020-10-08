@@ -43,8 +43,7 @@ However that depends on the users of our system also being the ones talking to f
       img: { src: "01-school-index.png" }
     }, {
       text: "Get the internet",
-      img: { src: "02-get-the-internet.png" },
-      caption: "Content pending. This page will set more context around the offer."
+      img: { src: "02-get-the-internet.png" }
     }, {
       text: "Request extra data",
       img: { src: "03-request-extra-data.png" }
