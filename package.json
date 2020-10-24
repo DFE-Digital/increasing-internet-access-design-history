@@ -67,7 +67,7 @@
   },
   "devDependencies": {
     "markdownlint-cli": "^0.23.2",
-    "standard": "^14.3.4"
+    "standard": "^15.0.0"
   },
   "nodemonConfig": {
     "ext": "css, scss, js, json, md, njk"
