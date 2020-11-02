@@ -32,8 +32,6 @@ Networks are nervous about volumes of requests, even though uptake during the pi
 
 Our original feature was at the responsible body level, with very different eligibility criteria. Now it might be that a responsible body can only make requests when one or more of its schools are eligible too. Each request may also need to be attributed to a school, rather than just the responsible body.
 
-### Comparing offers
-
 ### Devolve to schools or manage centrally
 
 Responsible bodies chose whether to devolve device ordering to schools or to manage centrally, who should manage ordering of routers and requesting mobile data may be different.
