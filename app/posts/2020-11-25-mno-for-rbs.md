@@ -41,5 +41,8 @@ For clarity, on the "Get internet access" page there is a section explaining:
     }, {
       text: "Request data – new ‘enter info’ guidance",
       img: { src: "05-request-data-enter-info-guidance.png" }
+    }, {
+      text: "How we ended the pilots",
+      img: { src: "06-page-showing-pilots-ended.png" }
     }]
 }) }}
