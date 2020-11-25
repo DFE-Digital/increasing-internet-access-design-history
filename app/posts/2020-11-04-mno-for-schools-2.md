@@ -1,5 +1,5 @@
 ---
-title: Iterate design for schools to request extra mobile data
+title: Schools requesting extra mobile data (iteration)
 description: Update eligibility and guidance, add routers
 date: 2020-11-04
 ---

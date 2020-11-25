@@ -1,5 +1,5 @@
 ---
-title: Update service to cover self-isolating children
+title: Update service to cover self-isolating groups
 description: A new policy means a school’s full allocation is available when 15 children are self-isolating
 date: 2020-09-25
 related:

@@ -1,5 +1,5 @@
 ---
-title: Iterate design for covering self-isolating children
+title: Eligibility for groups of self-isolating children (15 or more)
 description: Disruption will now be reported via the ed-settings form, rather than requesting through the service
 date: 2020-10-01
 related:
