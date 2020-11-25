@@ -6,6 +6,8 @@ related:
   items:
   - text: Trello
     href: https://trello.com/c/DTLTjG1j/918-rbs-can-make-mno-requests-on-behalf-of-schools
+  - text: Prototype PR
+    href: https://github.com/DFE-Digital/get-help-with-tech-prototype/pull/26
 ---
 
 An iteration on the [wave 1 design](/pilot-launch/#request-extra-mobile-data) to bring it inline with the more recent [schools design](/mno-for-schools-2/).
