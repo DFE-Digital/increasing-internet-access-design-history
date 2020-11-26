@@ -2,11 +2,17 @@
 title: Ordering devices through TechSource
 description: An overview of the user journey through TechSource
 date: 2020-08-05
+related:
+  items:
+  - text: Video of journey
+    href: https://www.youtube.com/watch?v=EfbMs7mqCV8
 ---
 
 The following screenshots show a standard journey through TechSource, the Computacenter tool that schools and responsible bodies will use to order devices. The screenshots represent the Wave 1 journey – there will be some small differences for Wave 2.
 
 See the notes for each screen.
+
+There is also a [video guide](https://www.youtube.com/watch?v=EfbMs7mqCV8).
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
