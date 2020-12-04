@@ -24,8 +24,6 @@ We have given TechSource a list of the RBs that manage schools with more than 1 
 
 These RBs will also see guidance in the ‘How to order’ section of the guidance.
 
-## Screenshot
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
