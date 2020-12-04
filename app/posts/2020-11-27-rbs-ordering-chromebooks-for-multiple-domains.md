@@ -12,7 +12,7 @@ related:
 
 ## The problem
 
-Moving to showing Responsible Bodies (RB) their device allocation for all schools (instead of per school)introduces a problem when ordering Chromebooks. 
+Moving to showing Responsible Bodies (RBs) their device allocation for all schools (instead of per school) introduces a problem when ordering Chromebooks. 
 
 Currently Computacenter configures Chromebooks using the ‘G Suite for Education’ domain of a URN given during checkout. However if the RB is reponsible for schools with different ‘G Suite for Education’ domains its not possible to tell TechSource how many Chromebooks are intended for which school. If the G suite domain is different to the school that will be using it, students and staff can’t use that Chromebook. It’s difficult for Computacenter to apply a new G Suite for Education licence to the Chromebook.
 
@@ -20,7 +20,7 @@ There are 57 RBs that manage schools with more than one G suite domain. [See a f
 
 ## The solution
 
-We have given TechSource a list of the RBs that manage schools with more than 1 domain and they have set the cap for those schools to 0. The RB can still place an order as normal, but the order will be processed manually by TechSource. If the order includes Chromebooks, TechSource will contact the RB by email to get the information on what emails.
+We’ve given TechSource the list of the RBs that manage schools with more than 1 domain and they have set the cap for those schools to 0. The RB can still place an order as normal, but the order will be processed manually by TechSource. If an order by one of these RBs includes Chromebooks, TechSource will contact that RB by email for how many Chromebooks are set to which G Suite domain.
 
 These RBs will also see guidance in the ‘How to order’ section of the guidance.
 
