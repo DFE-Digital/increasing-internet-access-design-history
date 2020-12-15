@@ -1,6 +1,6 @@
 ---
 title: Adding further education providers
-description: Increasing allocation for schools with sixth forms and adding further education providers
+description: Increasing allocations for schools with sixth forms and adding further education providers
 date: 2020-12-11
 related:
   items:
@@ -10,23 +10,23 @@ related:
     href: https://trello.com/c/HYkgnfmW/1155-design-hill-bringing-fe-into-the-service
 ---
 
-This post covers the app, but not: 
+This post covers the service, but not:
 - guidance outside the ordering part of the service
 - TechSource
 - the Google Form for requesting devices for specific circumstances
 
-At a high-level, the types of further education providers providers are:
+At a high-level, the types of further education providers are:
 - a sixth form thats part of a school or academy – no new entities, just increased allocation
 - a sixth form college that belongs to a Local Authority – equivalent to a school
 - a sixth form college that belongs to a Trust – equivalent to a school
 - FE provider – equivalent to a Single Academy Trust
-- FE provide by a Local Authority – equivalent to a Single Academy Trust
+- FE provided by a Local Authority – equivalent to a Single Academy Trust
 
 To add schools with sixth forms and further education providers to our service we need to adapt some content.
 
 ### Conditional content
 
-We could make all content conditional depending on the user being from a school or FE provider (for example, ‘children in year 3 to 11’ could be ‘children in years 3 to 11’, ‘students in years 3 to 13’ or ‘students’ depending on the user). This adds a lot of complexity and I want to see if it’s possible to make changes seen by all users and keep the app simpler. 
+We could make all content conditional depending on the user being from a school or FE provider (for example, ‘children in year 3 to 11’ could be ‘children in years 3 to 11’, ‘students in years 3 to 13’ or ‘students’ depending on the user). This adds a lot of complexity and I want to see if it’s possible to make changes seen by all users and keep the app simpler.
 
 It’s also not possible to do this for most of the guidance so this keeps the service consistent.
 
@@ -36,7 +36,7 @@ I don’t think the changes to accommodate FE providers creates much, if any add
 
 To communicate to users their allocation has increased to include sixth-form students we’ve used the notification banner. The banner has two states depending on if the school can order (because it has reported disruption or can [order devices proactively](/push)) or not.
 
-Ideally, the banner would show the number of devices added but then it would then need further conditional states given on what has been ordered, for example it should potentially hide once the user has placed an order. But there’s no way to know if the user has seen the banner or the devices ordered are from the devices allocated to sixth form students.
+Ideally, the banner would show the number of devices added but then it would need conditional states based on what has been ordered. For example it should potentially hide once the user has placed an order. But there’s no way to know if the user has seen the banner or the devices ordered are from the devices allocated to sixth form students.
 
 The banner is identical for schools and Responsible Bodies.
 
@@ -44,19 +44,19 @@ The banners shouldn’t last long, probably removed within a week of the last us
 
 #### School’s allocation is increased and can order
 
-<img src="/images/fe-providers/01-sixth-form-banner--can-order.png" 
+<img src="/images/fe-providers/01-sixth-form-banner--can-order.png"
      alt="Banner with second level heading 'Important', large bold text 'Your allocation has increased to include students in years 12 and 13' and regular text 'You can order more devices.' the 'order more devices' is a link">
 
 The text in the banner links to the order page.
 
 #### School’s allocation is increased but cannot order
 
-<img src="/images/fe-providers/02-sixth-form-banner--cannot-order.png" 
+<img src="/images/fe-providers/02-sixth-form-banner--cannot-order.png"
      alt="Banner with second level heading 'Important', large bold text 'Your allocation has increased to include students in years 12 and 13' and regular text 'You can order 30 more devices when you report a closure or 15 or more pupils self-isolating at the same time.'">
 
 ### Not showing how many devices are allocated for sixth form students as a separate number in the service
 
-We will tell users what the increase in allocation is in the email. We could also show users how many devices are allocated to sixth form students in the service. I don’t see much advantage to this as we don’t show allocation by year any other grouping anywhere else. Once the user has made an order we won't be able to show what part of their allocation has been reduced. This decision may need to be returned to after user research.
+We will tell users what the increase in allocation is in the email. We could also show users how many devices are allocated to sixth form students in the service. I don’t see much advantage to this as we don’t show allocation by year (or any other grouping) anywhere else. Once the user has made an order we won't be able to show what part of their allocation has been reduced. This decision may need to be returned to after user research.
 
 ## Adding new further education providers to the service
 
@@ -70,17 +70,17 @@ Because users no longer get an email when a TechSource account is created for th
 
 #### Privacy notice
 
-<img src="/images/fe-providers/03-privacy-statement.png" 
+<img src="/images/fe-providers/03-privacy-statement.png"
      alt="Text from the privacy statement with the added text ', trusts and further education providers' highlighted">
 
 #### Allocation
 
-<img src="/images/fe-providers/04-allocation.png" 
+<img src="/images/fe-providers/04-allocation.png"
      alt="Text from the allocation description with the changed text 'students in year 3 or above' highlighted">
 
 #### Chromebooks
 
-<img src="/images/fe-providers/05-chromebooks.png" 
+<img src="/images/fe-providers/05-chromebooks.png"
      alt="Will you order chromebooks? question page, with 'Yes, we will order chromebooks' selected and the added text ', or college' highlighted">
 
 ## School’s non-flow changes
@@ -89,18 +89,18 @@ Because users no longer get an email when a TechSource account is created for th
 
 Changes Get help for specific circumstances from ‘understand when children can get support’ to ‘understand when children and students can get support’.
 
-Removes: 
+Removes:
 - ‘school’ from ‘Check your school details’
 - ‘in your school’ from ‘Use this section to give others in your School’
 
-<img src="/images/fe-providers/07-index.png" 
+<img src="/images/fe-providers/07-index.png"
      alt="Get help with technology homepage">
 
 #### Making the ordering guide for schools consistent with Responsible bodies with virtual cap
 
 We made some improvements to the order guidance for RBs when introducing virtual caps, this makes the guidance for everyone consistent.
 
-<img src="/images/fe-providers/08-how-to-order-guidance.png" 
+<img src="/images/fe-providers/08-how-to-order-guidance.png"
      alt="Ordering guidance">
 
 #### Check your details
@@ -110,7 +110,7 @@ Changes:
 - row heading  from ‘School type’ to ‘Setting’
 - allocation description from ‘children in years 3 to 11’ to ‘students in year 3 or above’
 
-<img src="/images/fe-providers/08-how-to-order-guidance.png" 
+<img src="/images/fe-providers/08-how-to-order-guidance.png"
      alt="Changes to ordering guidance">
 
 #### Get help for specific circumstances
