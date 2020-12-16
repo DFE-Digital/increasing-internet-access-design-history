@@ -40,7 +40,7 @@
     "@11ty/eleventy": "^0.11.0",
     "@11ty/eleventy-navigation": "^0.1.6",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
-    "@rollup/plugin-commonjs": "^14.0.0",
+    "@rollup/plugin-commonjs": "^17.0.0",
     "@rollup/plugin-node-resolve": "^11.0.0",
     "accessible-autocomplete": "^2.0.3",
     "dotenv": "^8.2.0",
@@ -61,7 +61,7 @@
     "mkdirp": "^1.0.4",
     "node-sass": "^5.0.0",
     "npm-run-all": "^4.1.5",
-    "rollup": "^2.21.0",
+    "rollup": "^2.30.0",
     "sharp": "^0.26.2",
     "webshot-node": "^0.18.2"
   },
