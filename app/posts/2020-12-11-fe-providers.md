@@ -10,7 +10,7 @@ related:
     href: https://trello.com/c/HYkgnfmW/1155-design-hill-bringing-fe-into-the-service
 ---
 
-This post covers the service, but not:
+This post covers the ordering part of the service, but not:
 - guidance outside the ordering part of the service
 - TechSource
 - the Google Form for requesting devices for specific circumstances
