@@ -16,7 +16,7 @@ At a high-level, we are either in increasing a school’s allocation and not int
 
 ### Conditional content
 
-We could make all content conditional depending on the user being from a school or FE provider (for example, ‘children in year 3 to 11’ could be ‘children in years 3 to 11’, ‘students in years 3 to 13’ or ‘students’ depending on the user). This adds a lot of complexity and I want to see if it’s possible to make changes seen by all users and keep the app simpler.
+We could make all content conditional depending on the user being from a school or FE provider (for example, ‘children in years 3 to 11’ will need to switch between that, ‘students in years 3 to 13’ and ‘students’ depending on the user). This adds a lot of complexity and I want to see if it’s possible to make changes seen by all users and keep the app simpler.
 
 It’s also not possible to do this for most of the guidance so this keeps the service consistent.
 
@@ -46,7 +46,7 @@ The text in the banner links to the order page.
 
 ### Not showing how many devices are allocated for sixth form students as a separate number in the service
 
-We will tell users what the amount theire in allocation increased by in an email. We could also show users how many devices are allocated to sixth form students in the service. I don’t see much advantage to this as we don’t show allocation by year (or any other grouping) anywhere else and it adds complexity to the numbers we show in the service.
+We'll tell users what their allocation has increased by in an email. We could also show users how many devices are allocated to sixth form students in the service. I don’t see much advantage to this as we don’t show allocation by year (or any other grouping) anywhere else and it adds complexity to the numbers we show in the service.
 
 ## Adding new further education providers to the service
 
