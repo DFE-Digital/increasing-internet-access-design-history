@@ -15,14 +15,7 @@ This post covers the service, but not:
 - TechSource
 - the Google Form for requesting devices for specific circumstances
 
-At a high-level, the types of further education providers are:
-- a sixth form thats part of a school or academy – no new entities, just increased allocation
-- a sixth form college that belongs to a Local Authority – equivalent to a school
-- a sixth form college that belongs to a Trust – equivalent to a school
-- FE provider – equivalent to a Single Academy Trust
-- FE provided by a Local Authority – equivalent to a Single Academy Trust
-
-To add schools with sixth forms and further education providers to our service we need to adapt some content.
+At a high-level, the types of further education providers are either increasing allocation to an existing school or are equivalent to a Single Academy Trust (don’t belong to a Local Authority).
 
 ### Conditional content
 
