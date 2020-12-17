@@ -49,7 +49,7 @@ The text in the banner links to the order page.
 
 ### Not showing how many devices are allocated for sixth form students as a separate number in the service
 
-We will tell users what the increase in allocation is in the email. We could also show users how many devices are allocated to sixth form students in the service. I don’t see much advantage to this as we don’t show allocation by year (or any other grouping) anywhere else. Once the user has made an order we won't be able to show what part of their allocation has been reduced. This decision may need to be returned to after user research.
+We will tell users what the amount theire in allocation increased by in an email. We could also show users how many devices are allocated to sixth form students in the service. I don’t see much advantage to this as we don’t show allocation by year (or any other grouping) anywhere else and it adds complexity to the numbers we show in the service.
 
 ## Adding new further education providers to the service
 
