@@ -15,7 +15,7 @@ This post covers the ordering part of the service, but not:
 - TechSource
 - the Google Form for requesting devices for specific circumstances
 
-At a high-level, the types of further education providers are either increasing allocation to an existing school or are equivalent to a Single Academy Trust (don’t belong to a Local Authority).
+At a high-level, we are either in increasing a school’s allocation and not introducing a new entity, or adding an FE provider which is equivalent to a Single Academy Trust (don’t belong to a Local Authority).
 
 ### Conditional content
 
