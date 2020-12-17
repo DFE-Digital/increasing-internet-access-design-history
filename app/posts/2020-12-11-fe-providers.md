@@ -10,10 +10,7 @@ related:
     href: https://trello.com/c/HYkgnfmW/1155-design-hill-bringing-fe-into-the-service
 ---
 
-This post covers the ordering part of the service, but not:
-- guidance outside the ordering part of the service
-- TechSource
-- the Google Form for requesting devices for specific circumstances
+This post covers the ordering part of the service, but not guidance outside the ordering part of the service or TechSource.
 
 At a high-level, we are either in increasing a school’s allocation and not introducing a new entity, or adding an FE provider which is equivalent to a Single Academy Trust (don’t belong to a Local Authority).
 
