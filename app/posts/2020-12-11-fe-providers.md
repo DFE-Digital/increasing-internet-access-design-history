@@ -100,7 +100,9 @@ Changes:
 - row heading  from ‘School type’ to ‘Setting’
 - allocation description from ‘children in years 3 to 11’ to ‘students in year 3 or above’
 
-<img src="/images/fe-providers/08-how-to-order-guidance.png"
+For push change the description of ‘pupils unable to attend school’ to ‘students unable to take part in face-to-face education’ in guidance on when to request more devices.
+
+<img src="/images/fe-providers/09-check-your-details.png"
      alt="Changes to ordering guidance">
 
 #### Get help for specific circumstances
