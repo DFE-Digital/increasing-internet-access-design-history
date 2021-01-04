@@ -12,11 +12,11 @@ related:
 
 This post covers the ordering part of the service, but not guidance outside the ordering part of the service or TechSource.
 
-At a high-level, we are either in increasing a school’s allocation and not introducing a new entity, or adding an FE provider which is equivalent to a Single Academy Trust (don’t belong to a Local Authority).
+At a high-level, we are either increasing a school’s allocation and not introducing a new entity, or adding an FE provider which is equivalent to a Single Academy Trust (don’t belong to a Local Authority).
 
 ### Conditional content
 
-We could make all content conditional depending on the user being from a school or FE provider (for example, ‘children in years 3 to 11’ will need to switch between that, ‘students in years 3 to 13’ and ‘students’ depending on the user). This adds a lot of complexity and I want to see if it’s possible to make changes seen by all users and keep the app simpler.
+We could make content refering to schools and FE providers conditional depending on what educational setting the user is from (for example, ‘children in years 3 to 11’ will need to switch between that, ‘students in years 3 to 13’ and ‘students’ depending on the user). This adds a lot of complexity and I want to see if it’s possible to make changes seen by all users and keep the app simpler.
 
 It’s also not possible to do this for most of the guidance so this keeps the service consistent.
 
