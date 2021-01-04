@@ -16,11 +16,9 @@ At a high-level, we are either increasing a school’s allocation and not introd
 
 ### Conditional content
 
-We could make content refering to schools and FE providers conditional depending on what educational setting the user is from (for example, ‘children in years 3 to 11’ will need to switch between that, ‘students in years 3 to 13’ and ‘students’ depending on the user). This adds a lot of complexity and I want to see if it’s possible to make changes seen by all users and keep the app simpler.
+We could make content refering to schools and FE conditional depending on what educational setting the user is from (for example, ‘children in years 3 to 11’ could switch between, ‘students in years 3 to 11’, ‘students in years 3 to 13’ and ‘students’ depending on the user). This adds complexity to a lot of pages and I think it’s possible to make the same content work for all users and keep the app simpler.
 
-It’s also not possible to do this for most of the guidance so this keeps the service consistent.
-
-I don’t think the changes to accommodate FE providers creates much, if any additional burden on the user but it’s something to be aware of in research.
+It’s also not possible to make most of the guidance conditional so this keeps content across the service consistent.
 
 ## Increasing allocation for schools and academies with sixth forms
 
