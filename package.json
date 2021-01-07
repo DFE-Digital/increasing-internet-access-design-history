@@ -34,7 +34,7 @@
     "start": "npx eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1",
     "netlify": "npm run build && npx eleventy",
-    "heroku": "npm run build && npx eleventy && http-server --username $USERNAME --password $PASSWORD -p $PORT"
+    "heroku": "npm run build && npx eleventy && http-server -p $PORT"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
