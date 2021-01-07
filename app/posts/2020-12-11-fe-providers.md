@@ -84,9 +84,11 @@ Removes:
 <img src="/images/fe-providers/07-index.png"
      alt="Get help with technology homepage">
 
-#### Making the ordering guide for schools consistent with Responsible bodies with virtual cap
+#### Order devices
 
 We made some improvements to the order guidance for RBs when introducing virtual caps, this makes the guidance for everyone consistent.
+
+Because colleges may have more than one campus but won’t be able to change their delivery address using TechSource, show the user the delivery address. This should prevent users who this would be an issue for from getting products shipped to the wrong location but doesn’t add an an explination on why we don't ship to alternate addresses which is a non-issue for most users.
 
 <img src="/images/fe-providers/08-how-to-order-guidance.png"
      alt="Ordering guidance">
@@ -148,7 +150,7 @@ Adds ‘and/or colleges’ to ‘schools’
 
 #### Order devices
 
-Rewording of the ‘ordering devices for more than one school’ guidance to make it work for schools and colleges.
+Rewords the ‘ordering devices for more than one school’ guidance to make it work for schools and colleges.
 
 <img src="/images/fe-providers/15-order-devices.png"
      alt="Guidance on how to combine allocations into a single order">
