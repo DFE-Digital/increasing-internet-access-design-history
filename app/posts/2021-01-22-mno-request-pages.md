@@ -47,5 +47,8 @@ In early research we’ve seen that users know to click on these requests.
     }, {
       text: "Other problem",
       img: { src: "07-other-problem.png" }
+    }, {
+      text: "Unavailable",
+      img: { src: "08-unavailable.png" }
     }]
 }) }}
