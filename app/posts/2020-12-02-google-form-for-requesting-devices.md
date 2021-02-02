@@ -1,6 +1,6 @@
 ---
 title: Google form for requesting devices
-description: Support sends this form following an intial request
+description: Support sends this form following an initial request
 date: 2020-12-02
 ---
 
