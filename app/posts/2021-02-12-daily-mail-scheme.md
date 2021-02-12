@@ -2,6 +2,14 @@
 title: Opting in to the Daily Mail’s donated devices scheme
 description: How schools and responsible bodies will get these donated devices delivered to them
 date: 2021-02-12
+related:
+  items:
+  - text: School journey in prototype
+    href: https://ghwt-prototype.herokuapp.com/school/donated
+  - text: Trust journey in prototype
+    href: https://ghwt-prototype.herokuapp.com/responsible-body/donated
+  - text: Trello
+    href: https://trello.com/c/vRo4CKNy
 ---
 
 The Daily Mail is running a Computers For Kids scheme through its Mail Force charity. They are collecting donations for new devices and donations of old devices that will be refurbished.
