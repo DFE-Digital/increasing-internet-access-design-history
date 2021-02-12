@@ -10,6 +10,8 @@ related:
     href: https://ghwt-prototype.herokuapp.com/responsible-body/donated
   - text: Trello
     href: https://trello.com/c/vRo4CKNy
+  - text: Prototype PR
+    href: https://github.com/DFE-Digital/get-help-with-tech-prototype/pull/39
 ---
 
 The Daily Mail is running a Computers For Kids scheme through its Mail Force charity. They are collecting donations for new devices and donations of old devices that will be refurbished.
