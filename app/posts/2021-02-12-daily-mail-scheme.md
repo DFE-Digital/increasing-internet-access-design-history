@@ -11,13 +11,42 @@ The Department for Education is using its Get help with technology service as a 
 There are two journeys:
 
 - school journey
-- responsible body journey, where schools are being managed centrally
+- responsible body (RB) journey, where schools are being managed centrally
+
+## Design notes
+
+### No opt out
+
+Schools can opt in, but there is no explicit opt out. If any school is not interested, we do not record that decision. If they return to this section of the service again they go through the same journey.
+
+### Opting in some schools
+
+For RBs there's a shortcut to opt in all schools, rather than having to select each one individually.
+
+If an RB chooses to opt in only some of its schools, it can return and opt in the rest later. Those schools will have the same number of devices per school and accepted devices as the others.
+
+### Delivery contact
+
+The user that opts in a school will be the delivery contact. Their name, email address and telephone number will be shared with Computacenter and Mail Force. Their name will be shown on the delivery address.
+
+We indicate this by showing their name and address on the Your details will be shared page. For an RB we should show the address of the first opted in school.
+
+### Delivery
+
+All deliveries must go to the school, they cannot be delivered centrally. They go to the address associated with the URN. We indicate the delivery address but it is not editable.
+
+### Device types for responsible bodies
+
+Research with trusts did not reveal a need for responsible bodies to independently set the device types needed at a school level. In the design the devices accepted apply to all schools. This simplifies the journey, especially for those RBs with many schools.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
       text: "School: Home page",
-      img: { src: "01-school-home-page.png" }
+      img: { src: "01-school-home-page.png" },
+      caption: "
+There’s a new section linking to opting in
+      "
     }, {
       text: "School: Do you want donated devices?",
       img: { src: "02-school-do-you-want-donated-devices.png" }
