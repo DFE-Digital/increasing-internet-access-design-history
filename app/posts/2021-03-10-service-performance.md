@@ -2,6 +2,10 @@
 title: Service performance
 description: Dashboards showing device, MNO and router stats
 date: 2021-03-10
+related:
+  items:
+  - text: Prototype PR
+    href: https://github.com/DFE-Digital/get-help-with-tech-prototype/pull/43
 ---
 
 Changes from current dashboard include:
