@@ -62,7 +62,7 @@
     "node-sass": "^5.0.0",
     "npm-run-all": "^4.1.5",
     "rollup": "^2.30.0",
-    "sharp": "^0.27.2",
+    "sharp": "^0.28.0",
     "webshot-node": "^0.18.2"
   },
   "devDependencies": {
