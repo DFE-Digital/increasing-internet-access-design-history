@@ -26,67 +26,75 @@ Once we have this data we can add these users to our service.
 
 {{ appFigure({
   image: {
-    file: "google-form/google-form-01.png"
+    file: "google-form/01-intro-and-email.png"
   }
 }) }}
 
 {{ appFigure({
   image: {
-    file: "google-form/google-form-02.png"
+    file: "google-form/02-your-details.png"
   }
 }) }}
 
+
 {{ appFigure({
   image: {
-    file: "google-form/google-form-03.png"
+    file: "google-form/03-get-laptops-for-state-funded-pupils-in-independent-settings.png"
   }
 }) }}
 
 If ‘No, someone else will place orders’, go to section 'Who will place orders for these laptops?'
 
-Else go to next section.
+Else go to ‘Delivery address’.
 
 {{ appFigure({
   image: {
-    file: "google-form/google-form-03-a-01.png"
+    file: "google-form/04-who-will-place-orders-for-these-laptops.png"
+  }
+}) }}
+
+If ‘Yes, I can nominate someone else’ got to ’Who do you nominate to place orders for your local authority?’
+
+Else submit form.
+
+{{ appFigure({
+  image: {
+    file: "google-form/05-who-do-you-nominate-to-place-orders-for-your-local-authority.png"
+  }
+}) }}
+
+
+{{ appFigure({
+  image: {
+    file: "google-form/06-thank-you-for-letting-us-know-we-ll-contact-your-local-authority-to-find-the-right-person-to-order-these-laptops.png"
   }
 }) }}
 
 {{ appFigure({
   image: {
-    file: "google-form/google-form-03-a-02.png"
+    file: "google-form/07-delivery-address.png"
+  }
+}) }}
+
+{{ appFigure({
+  image: {
+    file: "google-form/08-your-laptop-allocation.png"
   }
 }) }}
 
 If ‘No, the allocation is wrong’, go to section ’Tell us why your allocation is wrong’
 
-Else submit the form.
-
 {{ appFigure({
   image: {
-    file: "google-form/google-form-03-a-03-b-01.png"
+    file: "google-form/09-tell-us-why-your-allocation-is-wrong.png"
   }
 }) }}
 
-Submit the form.
-
 {{ appFigure({
   image: {
-    file: "google-form/google-form-03-b-01.png"
+    file: "google-form/10-submit.png"
   }
 }) }}
-
-If ‘Yes, I can nominate someone else', go to section ‘Nominated person to place orders for latops’
-
-Else submit the form.
-
-{{ appFigure({
-  image: {
-    file: "google-form/google-form-03-b-02.png"
-  }
-}) }}
-
-Submit the form.
 
 ### ‘School’ user journey
 
