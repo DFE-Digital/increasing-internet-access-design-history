@@ -20,8 +20,6 @@ We focused on this because:
 
 The designs were reviewed and iterated, and presented and demo'd many times, but they did not reach user research. The plans for the summer service were stopped when the decision was made not to turn off TechSource. At this point the designs were mature, but no development work had started.
 
-##
-
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
