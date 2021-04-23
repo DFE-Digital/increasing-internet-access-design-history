@@ -2,6 +2,12 @@
 title: Ordering through the service (Summer service)
 description: An order journey that does not use TechSource
 date: 2021-04-23
+related:
+  items:
+  - text: Expanding order journey PR
+    href: https://github.com/DFE-Digital/get-help-with-tech-prototype/pull/48
+  - text: Adding responsible body journey PR
+    href: https://github.com/DFE-Digital/get-help-with-tech-prototype/pull/49
 ---
 
 In March we explored designs for ordering devices directly through the service, rather than through Computacenter’s TechSource platform. These designs built upon the [experimental order journey](/experimental-shop-journey/), which identified a number of user benefits to having the entire journey in a single place.
