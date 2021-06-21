@@ -62,8 +62,6 @@ Everything else has been removed.
 
 The order summary has a number of states depending on what the user ordered:
 
-### Schools that aren't part of a virtual pool
-
 If the user’s organisation didn't receive any laptops, tablets, routers or extra data:
 
 {{ appFigure({
