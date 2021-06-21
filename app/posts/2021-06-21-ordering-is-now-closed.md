@@ -170,8 +170,6 @@ If the organisation received laptops or tablets and routers:
 
 ### Order history
 
-#### School users
-
 If the user belongs to a school, has access to TechSource and their school – or responsible body, if part of a virtual pool – did not request any extra data:
 
 {{ appFigure({
