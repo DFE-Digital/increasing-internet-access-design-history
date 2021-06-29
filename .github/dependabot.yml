@@ -1,0 +1,19 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: sharp
+    versions:
+    - 0.27.1
+    - 0.28.0
+  - dependency-name: markdownlint-cli
+    versions:
+    - 0.27.0
+  - dependency-name: markdown-it-anchor
+    versions:
+    - 7.0.1
+    - 7.0.2
